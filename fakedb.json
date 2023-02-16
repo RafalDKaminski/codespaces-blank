@@ -1,0 +1,13 @@
+{
+    "students": [
+        {
+            "id": 1,
+            "username": "Jonny",
+            "name": "Jan",
+            "email": "jan@sda.pl"
+        }
+    ],
+    "profile": {
+        "name": "typicode"
+    }
+}
